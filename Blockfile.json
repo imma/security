@@ -1,0 +1,7 @@
+{
+  "require": [
+    "git-crypt",
+    "gpg",
+    "ssh-agent",
+    "letsencrypt"
+}
