@@ -3,5 +3,6 @@
     "git-crypt",
     "gpg",
     "ssh-agent",
-    "letsencrypt"
+    "letsencrypt",
+    "lock"
 }
